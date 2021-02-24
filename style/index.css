@@ -1,0 +1,11 @@
+@import 'shared/reset.css';
+@import '../script/header/header.css';
+@import '../script/main/main.css';
+@import '../script/started/started.css';
+@import '../script/slider/slider.css';
+@import '../script/questions/questions.css';
+@import '../script/contact/contact.css';
+@import '../script/about/about.css';
+@import 'fonts/Museo-Sans/stylesheet.css';
+
+

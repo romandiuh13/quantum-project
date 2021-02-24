@@ -1,0 +1,19 @@
+@import 'variables.css';
+
+.btn{
+    font-family: var(--font-Museo-500);
+
+    border: none;
+    border-radius: 30px;
+
+    color: var(--color-white);
+    background-color: var(--color-violet)
+}
+.btn:disabled{
+    background-color: var(--color-violet-disable);
+    color: var(--color-gray-1);
+}
+
+.btn:hover{
+    background-color: var(--color-violet-hover);
+}
